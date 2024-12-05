@@ -1,4 +1,4 @@
-Réseau Social - CHAP CHAP
+****Réseau Social - CHAP CHAP*****
 
 Ce projet est un réseau social développé en **PHP** , **MySQL** et **JavaJavaScript** avec l'utilisation de **Bootstrap** . 
 Il permet aux utilisateurs de:
