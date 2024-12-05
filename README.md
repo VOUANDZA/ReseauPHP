@@ -37,7 +37,10 @@ Partage de médias :
 👉 extrait de vidéo
 
 
-https://github.com/user-attachments/assets/ff0bde03-a792-4ab0-b2e1-e4dcf8239e85
+
+https://github.com/user-attachments/assets/8fb7f950-28cb-490f-af23-318c9b8bfc05
+
+
 
 
 
