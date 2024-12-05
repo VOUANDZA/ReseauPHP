@@ -30,5 +30,14 @@ Partage de médias :
 ![home](https://github.com/user-attachments/assets/231a4dd6-00ca-43c9-bff8-7fbfa837ec30)![Profil](https://github.com/user-attachments/assets/0920d273-8359-4a11-8aef-0dc8f68ef9fd)
 
 
+👉 extrait de vidéo
+
+
+https://github.com/user-attachments/assets/ff0bde03-a792-4ab0-b2e1-e4dcf8239e85
+
+
+
+
+
 
 
